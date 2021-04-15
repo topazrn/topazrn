@@ -1,16 +1,17 @@
-### Hi there 👋
+### About Me
+Hi I’m Topaz, a student and a junior software engineer. I started learning to code when I was about 13 years old. My middle school was very ambitious about olympics. My senior taught me a little bit of pascal after I begged him because I wanted to win some medals (I didn't get any XD). From there I moved on to Java and was able to pass my college exams relatively easily. Currently I am studying and working in Binus University.
 
-<!--
-**topazrn/topazrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love working with Laravel and Sapper. I'm passionate about programming and believe that learning never stops.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/topazrn) || topazsorowako2@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I Participated In
+
+- [Itenas Sikad](https://sikad.itenas.ac.id) - A portal for students, lecturers, and staffs of Institut Teknologi Nasional 
+- [BOL Online Exam](https://onlineexam.apps.binus.ac.id) - An app for BOL students to do their online exams
+- [BINUS Online Learning](https://ol.binus.ac.id) - A portal for students, lecturers, and staffs of BINUS Online Learning
+- [Trial LMS](https://onlinetrial.binus.ac.id) - A demo of BINUS Online Learning
+
+### GitHub stats
+
+[![topazrn's GitHub stats](https://github-readme-stats.vercel.app/api?username=topazrn&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/topazrn)
