@@ -11,6 +11,7 @@ I love working with Laravel (PHP) and Sapper (TypeScript), but currently I'm adv
 - [BOL Online Exam](https://onlineexam.apps.binus.ac.id) - An app for BOL students to do their online exams
 - [BINUS Online Learning](https://ol.binus.ac.id) - A portal for students, lecturers, and staffs of BINUS Online Learning
 - [Trial LMS](https://onlinetrial.binus.ac.id) - A demo of BINUS Online Learning
+- [Ganee](https://ganee-wbad.web.app) ([Repository](https://github.com/topazrn/Project_Akhir_ISYS6211)) - A client side Point of Sales web app
 <!-- 
 ### GitHub stats
 
