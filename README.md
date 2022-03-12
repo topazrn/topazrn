@@ -7,8 +7,8 @@ Hi I’m Topaz, a student and a fulltime software engineer. I love working with 
 - [BOL Online Exam](https://onlineexam.apps.binus.ac.id) - Online Exam for Binus Online Learning
 - [BINUS Online Learning](https://ol.binus.ac.id) - LMS for Binus Online Learning
 - [Trial LMS](https://onlinetrial.binus.ac.id) - A demo of LMS for Binus Online Learning
-- [Ganee](https://ganee-wbad.web.app) ([Repository](https://github.com/topazrn/Project_Akhir_ISYS6211)) - A client side Point of Sales web app
-- [Debook](https://debook-4baf4.web.app/) ([Repository](https://github.com/topazrn/Project_Case_ISYS6211)) - A debt recording web app
+- [Ganee](https://ganee-wbad.web.app) ([Repository](https://github.com/topazrn/Project_Akhir_ISYS6211)) - Point of Sales
+- [Debook](https://debook-4baf4.web.app/) ([Repository](https://github.com/topazrn/Project_Case_ISYS6211)) - Debt Journal
 
 ### Languages I've worked with
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
