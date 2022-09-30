@@ -9,6 +9,7 @@ Hi I’m Topaz, a student and a fulltime software engineer. I love working with 
 - [Trial LMS](https://onlinetrial.binus.ac.id) - A demo of LMS for Binus Online Learning
 - [Ganee](https://ganee-wbad.web.app) ([Repository](https://github.com/topazrn/Project_Akhir_ISYS6211)) - Point of Sales
 - [Debook](https://debook-4baf4.web.app/) ([Repository](https://github.com/topazrn/Project_Case_ISYS6211)) - Debt Journal
+- [Steam Account Switcher](https://raw.githubusercontent.com/topazrn/SteamAccountSwitcher.ps1/main/sas.ps1) ([Repository](https://github.com/topazrn/SteamAccountSwitcher.ps1)) - Powershell script to switch steam account without re-logging in
 - [Headless Vogel's Approximation Method](https://www.npmjs.com/package/vogels-approximation-method) ([Repository](https://github.com/topazrn/vogels-approximation-method)) - Headless VAM Calculator
 - [Vogel's Approximation Method](https://dim-vam.web.app/) ([Repository](https://github.com/topazrn/vam-calculator)) - VAM Calculator
 
